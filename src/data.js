@@ -16,7 +16,7 @@ export const data = [
 	{
 		id: 3,
 		img: 'https://images.unsplash.com/flagged/photo-1560177776-295b9cd779de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=502&q=80',
-		nameProduct: 'Skih 3',
+		nameProduct: 'Skin 3',
 		price: 90,
 		quantity: 1,
 	},
@@ -30,7 +30,7 @@ export const data = [
 	{
 		id: 5,
 		img: 'https://images.unsplash.com/photo-1630534658718-395efda906cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80',
-		nameProduct: 'Skih 5',
+		nameProduct: 'Skin 5',
 		price: 20,
 		quantity: 1,
 	},
